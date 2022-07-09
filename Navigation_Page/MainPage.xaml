@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Navigation_Page.MainPage" Title="Main Page">
+
+    <StackLayout BackgroundColor="LightGray" HorizontalOptions="Center" VerticalOptions="Center">
+        <Label Text="Welcome to Main Page" TextColor="Red" FontSize="50"/>
+        <Entry x:Name="txtFirstName" Placeholder="Enter First Name"/>
+        <Entry x:Name="txtLastName" Placeholder="Enter Last Name"/>
+        <Button Text="Client Master" Clicked="ClientMaster_Clicked" />
+        <Button Text="Exchange Master" Clicked="ExchangeMaster_Clicked" />
+    </StackLayout>
+</ContentPage>

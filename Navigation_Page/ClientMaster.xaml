@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Navigation_Page.ClientMaster" Title="Client Master">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <Label Text="Welcome to Client Master Page" TextColor="Red" FontSize="50"/>
+            <Label x:Name="txtMessage"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

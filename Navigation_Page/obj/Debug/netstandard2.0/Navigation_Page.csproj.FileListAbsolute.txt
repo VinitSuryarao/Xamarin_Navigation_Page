@@ -1,0 +1,17 @@
+E:\Study\Code\Xamarin\Navigation_Page\Navigation_Page\bin\Debug\netstandard2.0\Navigation_Page.deps.json
+E:\Study\Code\Xamarin\Navigation_Page\Navigation_Page\bin\Debug\netstandard2.0\Navigation_Page.dll
+E:\Study\Code\Xamarin\Navigation_Page\Navigation_Page\bin\Debug\netstandard2.0\ref\Navigation_Page.dll
+E:\Study\Code\Xamarin\Navigation_Page\Navigation_Page\bin\Debug\netstandard2.0\Navigation_Page.pdb
+E:\Study\Code\Xamarin\Navigation_Page\Navigation_Page\obj\Debug\netstandard2.0\Navigation_Page.csproj.AssemblyReference.cache
+E:\Study\Code\Xamarin\Navigation_Page\Navigation_Page\obj\Debug\netstandard2.0\Navigation_Page.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code\Xamarin\Navigation_Page\Navigation_Page\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Study\Code\Xamarin\Navigation_Page\Navigation_Page\obj\Debug\netstandard2.0\ClientMaster.xaml.g.cs
+E:\Study\Code\Xamarin\Navigation_Page\Navigation_Page\obj\Debug\netstandard2.0\ExchangeMaster.xaml.g.cs
+E:\Study\Code\Xamarin\Navigation_Page\Navigation_Page\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Study\Code\Xamarin\Navigation_Page\Navigation_Page\obj\Debug\netstandard2.0\Navigation_Page.AssemblyInfoInputs.cache
+E:\Study\Code\Xamarin\Navigation_Page\Navigation_Page\obj\Debug\netstandard2.0\Navigation_Page.AssemblyInfo.cs
+E:\Study\Code\Xamarin\Navigation_Page\Navigation_Page\obj\Debug\netstandard2.0\Navigation_Page.csproj.CoreCompileInputs.cache
+E:\Study\Code\Xamarin\Navigation_Page\Navigation_Page\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Study\Code\Xamarin\Navigation_Page\Navigation_Page\obj\Debug\netstandard2.0\Navigation_Page.dll
+E:\Study\Code\Xamarin\Navigation_Page\Navigation_Page\obj\Debug\netstandard2.0\ref\Navigation_Page.dll
+E:\Study\Code\Xamarin\Navigation_Page\Navigation_Page\obj\Debug\netstandard2.0\Navigation_Page.pdb
